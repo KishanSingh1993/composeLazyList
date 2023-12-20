@@ -10,3 +10,6 @@ work to build complex and dynamic lists.
 ## Screenshots 🖼️
 
 Here are some screenshots of the app:
+
+<img src="/screenshot/ss1.png" height="733"/> || <img src="/screenshot/ss2.png" height="738"/>
+
